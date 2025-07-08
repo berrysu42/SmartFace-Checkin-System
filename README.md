@@ -82,3 +82,13 @@ Bu proje, **Python**, **OpenCV**, **Face Recognition** ve **MSSQL** kullanarak g
 
 ## 🚀 Amaç
 Bu proje, fiziksel erişim güvenliğini artırmak için tasarlanmış modern, güvenilir ve ölçeklenebilir bir çözüm sunar.
+
+<p> 📸 Demo Ekran
+
+Aşağıdaki ekran görüntüsü, sistemin gerçek zamanlı yüz tanıma sürecini ve veritabanı bağlantısını gösterir.  
+- Kamera tarafından alınan yüz görüntüsü anlık olarak işlenir.
+- Yüz vektörü veritabanındaki kayıtlarla eşleştirilir.
+- Tanınan yüz doğrulanırsa erişim verilir, log kaydı oluşturulur.
+</p>
+
+![image alt](https://github.com/berrysu42/SmartFace-Checkin-System/blob/ee21e385f84e21813e8ec3c29d0877a1cc9c9de0/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1322).png)
