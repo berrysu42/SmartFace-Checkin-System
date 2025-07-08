@@ -1,0 +1,19 @@
+
+USE FaceRecognitionDB;
+
+
+/*CREATE TABLE Kisiler (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    AdSoyad NVARCHAR(255) NOT NULL,
+    YuzVerisi NVARCHAR(MAX) NOT NULL
+);
+
+CREATE TABLE Gorulen_Kisiler (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    Kisi_ID INT NULL,
+    TanimliMi BIT NOT NULL,
+    GorulmeSaati DATETIME DEFAULT GETDATE(),
+    KameraID INT NOT NULL,
+    CONSTRAINT FK_Gorulen_Kisiler FOREIGN KEY (Kisi_ID) REFERENCES Kisiler(ID) ON DELETE SET NULL
+);
+*/
